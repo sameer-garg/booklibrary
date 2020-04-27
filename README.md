@@ -1,16 +1,19 @@
-# booklibrary
- a web app record for the transactions of books iin al ibrary including dues, available books, list of borrowed books,etc.
+# book library
+ a web app that keeps a record of all the transactions of books in a library including dues, available books, a list of borrowed books, etc.
 # TECH STACK-
- Django,python,html,css.
+ Django,Python,HTML,CSS.
 # users
 admin - 
-username :sameergarg
-password :testpassword
+username: sameergarg
+password: testpassword
 
 librarian 
-username : librariran1
-password :lib1lib1
+username: librariran1
+password:lib1lib1
 
 library member
-username : testusr1
-password : testpassword2
+username: testusr1
+password: testpassword2
+# using
+Django admin  library
+generic views library for easy access to the database.
