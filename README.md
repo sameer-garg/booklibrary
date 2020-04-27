@@ -16,6 +16,9 @@ username: testusr1
 password: testpassword2
 # Features explored 
 Django admin  library
+
 generic views library for easy access to the database.
+
 automated tests provided by Django
+
 temaplate tags that reduce the exhausting frontend tasks significantly
